@@ -3,3 +3,5 @@
 
 // generated js files
 *.js
+
+node_modules/**
