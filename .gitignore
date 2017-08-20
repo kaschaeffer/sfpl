@@ -5,3 +5,6 @@
 *.js
 
 node_modules/**
+
+// secrets
+config.ts
