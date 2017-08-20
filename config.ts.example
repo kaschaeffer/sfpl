@@ -1,0 +1,3 @@
+// add your secrets and rename this to config.ts
+export const barcode: string = '';
+export const password: string = '';
