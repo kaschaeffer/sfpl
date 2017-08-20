@@ -1,0 +1,5 @@
+// screenshots
+*.png
+
+// generated js files
+*.js
